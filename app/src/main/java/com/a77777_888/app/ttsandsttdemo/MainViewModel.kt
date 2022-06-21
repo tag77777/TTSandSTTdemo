@@ -28,8 +28,6 @@ class MainViewModel : ViewModel() {
                 RecognizerIntent.LANGUAGE_MODEL_FREE_FORM
             )
             putExtra(RecognizerIntent.EXTRA_LANGUAGE, Locale(Locale.getDefault().language))
-//            putExtra(RecognizerIntent.EXTRA_PROMPT, Locale("Test"))
-//            putExtra(RecognizerIntent.EXTRA_PROMPT, "Test")
         })
     }
 
