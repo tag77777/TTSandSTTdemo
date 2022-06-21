@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TTSandSTTdemo</string>
+    <string name="play">Play</string>
+    <string name="say">Say</string>
+    <string name="clear">Clear</string>
+    <string name="quit">Quit</string>
+    <string name="text">Text</string>
+    <string name="tts_fail">Your device is not ready for audio playback of text. Text to Speech Engine is required\n</string>
+    <string name="stt_fail">Your device is not ready to synthesize text from sound. Special software is required\n</string>
+</resources>
